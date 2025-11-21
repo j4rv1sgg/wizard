@@ -1,4 +1,4 @@
-## ✅ Implemented Features
+## ✅ Implemented Optional Features
 
 - **Sidebar navigation** displaying all visible questions with clear **answered / unanswered** states.
 - **Skip button** allowing the user to move to the next question without providing an answer.
