@@ -1,3 +1,10 @@
+## ✅ Implemented Features
+
+- **Sidebar navigation** displaying all visible questions with clear **answered / unanswered** states.
+- **Skip button** allowing the user to move to the next question without providing an answer.
+- **Answer persistence** using `localStorage`, so user progress is saved between reloads.
+- **Keyboard navigation** (e.g., **Enter → Next**) for a smoother user experience.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
